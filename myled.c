@@ -7,7 +7,7 @@
 #include <linux/uaccess.h>
 #include <asm/delay.h>
 
-MODULE_AUTHOR("Rui Kobayashi");
+MODULE_AUTHOR("Takashinaganuma");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
